@@ -3,7 +3,7 @@ UI/UX Design Portfolio
 
 Case Study 1
 
-Problem: Payment screens for Tavendi mobile app.
+Problem: Payment screens for Tavendi mobile app
 
 Users: HEC UI/UX Master’s students (participating in the HEC Montreal Pro Bono UI/UX program). Their feedback would help refine the screens before full app integration.
 
@@ -15,7 +15,7 @@ https://app.uizard.io/prototypes/QOnmo4YZRaCKelE8Enj3
 
 Case Study 2
 
-Problem: Revamp the current screens of Tavendi mobile app to a more modern UI/UX.
+Problem: Revamp the current screens of Tavendi mobile app to a more modern UI/UX
 
 Users: App users who are looking for a casual app to help them declutter and sell off their unwanted items. As such the UI/UX should be simple, efficient, and elegant.
 
