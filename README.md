@@ -18,7 +18,7 @@ Users: app users who are looking for a casual app to help them declutter. As suc
 Process: A lot of team meetings, discussions, brainstorming, drafting, and exchanging feedback/criticisms with fellow UI/UX interns and members dealing with the business and product side of things
 Solution:
 
-https://app.uizard.io/prototypes/8XnYlO7e3gtvee0L9ox4
+https://app.uizard.io/prototypes/8XnYlO7e3gtvee0L9ox4\n
 https://app.uizard.io/prototypes/r8Mze5aaV7CKyP3yrQla
 
 Additional showcases:
