@@ -6,9 +6,9 @@ Case Study 1
 
 Problem: Payment screens for Tavendi mobile app
 
-Users: HEC UI/UX Master’s students (participating in the HEC Montreal Pro Bono UI/UX program). Their feedback would help refine the screens before full app integration.
+Users: HEC UI/UX Master’s students (participating in the HEC Montreal Pro Bono UI/UX program). Their feedback would help refine the screens before full app integration
 
-Process: Interative prototypes for 3 different payment flows were to be sent for review, those being in-person payment with QR code, in-person payment with 6-digit code, and online payment with delivry. However, These initial designs were too rigid and lacked interactivity, making the user flow overly leading. The goal was to redesign these screens as interactive prototypes to improve usability and allow users to make natural, realistic decisions.
+Process: Interative prototypes for 3 different payment flows were to be sent for review, those being in-person payment with QR code, in-person payment with 6-digit code, and online payment with delivry. However, These initial designs were too rigid and lacked interactivity, making the user flow overly leading. The goal was to redesign these screens as interactive prototypes to improve usability and allow users to make natural, realistic decisions
 
 Solution:
 
@@ -18,9 +18,9 @@ Case Study 2
 
 Problem: Revamp the current screens of Tavendi mobile app to a more modern UI/UX
 
-Users: App users who are looking for a casual app to help them declutter and sell off their unwanted items. As such the UI/UX should be simple, efficient, and elegant.
+Users: App users who are looking for a casual app to help them declutter and sell off their unwanted items. As such the UI/UX should be simple, efficient, and elegant
 
-Process: A lot of team meetings, discussions, brainstorming, drafting, and exchanging feedback/criticisms with fellow UI/UX interns and members dealing with the business and product side of things.
+Process: A lot of team meetings, discussions, brainstorming, drafting, and exchanging feedback/criticisms with fellow UI/UX interns and members dealing with the business and product side of things
 
 Solution:
 
