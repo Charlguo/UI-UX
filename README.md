@@ -1,5 +1,5 @@
 # UI-UX
-UI/UX Design Portfolio
+UI/UX Design Portfolio                                                                                                                                                                                               This portfolio consists of designs made in Uizard & Figma
 
 Case Study 1
 
