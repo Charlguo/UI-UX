@@ -14,7 +14,7 @@ Solution:
 
 https://app.uizard.io/prototypes/QOnmo4YZRaCKelE8Enj3
 
-Sample Payment Interactive Prototype Demo:
+Sample Payment Interactive Prototype Demo (Video - Click the thumbnail):
 
 [![Interactive Prototype Demo](assets/interactive-demo-thumbnail.png)](assets/Interactive%20Prototype%20Demo.mp4)
 
