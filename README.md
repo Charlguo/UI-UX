@@ -14,6 +14,10 @@ Solution:
 
 https://app.uizard.io/prototypes/QOnmo4YZRaCKelE8Enj3
 
+Sample Payment Interactive Prototype Demo:
+
+[![Interactive Prototype Demo](assets/interactive-demo-thumbnail.png)](assets/Interactive%20Prototype%20Demo.mp4)
+
 Case Study 2
 
 Problem: Revamp the current screens of Tavendi mobile app to a more modern UI/UX
