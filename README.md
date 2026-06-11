@@ -2,7 +2,7 @@
 UI/UX Design Portfolio                                                                                                                                                                                
 This portfolio consists of designs made in Uizard & Figma
 
-Case Study 11
+Case Study 1
 
 Problem: Payment screens for Tavendi mobile app
 
